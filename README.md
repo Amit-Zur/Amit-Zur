@@ -3,6 +3,9 @@ I'm Amit, an aspiring Data Analyst on a journey to unravel insights from data an
 
 ### About Me:
 💼 Currently learning SQL, Tableau, Excel, and Python.
+
 🌱 Exploring the realms of programming in my spare time.
+
 👩‍⚕️ Fun fact: I'm an ICU nurse, bringing a unique perspective to data analysis.
+
 🔍 Always seeking new challenges and opportunities to expand my skills.
