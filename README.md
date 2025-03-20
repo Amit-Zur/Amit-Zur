@@ -1,11 +1,12 @@
-### Hi there! 👋
-I'm Amit, an aspiring Data Analyst on a journey to unravel insights from data and transform them into actionable solutions. Currently, I'm honing my skills in SQL, Tableau, Excel, and Python, diving deep into the world of data analysis.
+<p align="center">
+  <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2024-09/240913-spacex-polaris-al-1435-a0cdba.jpg" alt="SpaceX Polaris">
+</p>
 
-### About Me:
-💼 Currently learning SQL, Tableau, Excel, and Python.
+### About Me  
 
-🌱 Exploring the realms of programming in my spare time.
+I am a **computer science student** with a background in **ICU nursing**, now working in **data validation for computer vision projects**.
 
-👩‍⚕️ Fun fact: I'm an ICU nurse, bringing a unique perspective to data analysis.
+#### 🛠 Technical Skills:  
+- **Java** (currently learning)  
+- **Python, C**  
 
-🔍 Always seeking new challenges and opportunities to expand my skills.
